@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhkr5/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/saurabhkr5/DSA/tree/master/0014-longest-common-prefix) |
 | [0074-search-a-2d-matrix](https://github.com/saurabhkr5/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saurabhkr5/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saurabhkr5/DSA/tree/master/0162-find-peak-element) |
@@ -81,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/saurabhkr5/DSA/tree/master/0001-two-sum) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saurabhkr5/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/saurabhkr5/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
