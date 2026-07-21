@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saurabhkr5/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saurabhkr5/DSA/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurabhkr5/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/saurabhkr5/DSA/tree/master/0542-01-matrix) |
 | [0875-koko-eating-bananas](https://github.com/saurabhkr5/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabhkr5/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/saurabhkr5/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurabhkr5/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+| [0542-01-matrix](https://github.com/saurabhkr5/DSA/tree/master/0542-01-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/saurabhkr5/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/saurabhkr5/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/saurabhkr5/DSA/tree/master/0112-path-sum) |
+| [0542-01-matrix](https://github.com/saurabhkr5/DSA/tree/master/0542-01-matrix) |
 ## Binary Tree
 |  |
 | ------- |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/saurabhkr5/DSA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/saurabhkr5/DSA/tree/master/0542-01-matrix) |
 ## Binary Search Tree
 |  |
 | ------- |
