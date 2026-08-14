@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/saurabhkr5/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/saurabhkr5/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/saurabhkr5/DSA/tree/master/0162-find-peak-element) |
+| [0217-contains-duplicate](https://github.com/saurabhkr5/DSA/tree/master/0217-contains-duplicate) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurabhkr5/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/saurabhkr5/DSA/tree/master/0542-01-matrix) |
 | [0875-koko-eating-bananas](https://github.com/saurabhkr5/DSA/tree/master/0875-koko-eating-bananas) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/saurabhkr5/DSA/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/saurabhkr5/DSA/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/saurabhkr5/DSA/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/saurabhkr5/DSA/tree/master/0062-unique-paths) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/saurabhkr5/DSA/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
