@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/saurabhkr5/DSA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/saurabhkr5/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhkr5/DSA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/saurabhkr5/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurabhkr5/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/saurabhkr5/DSA/tree/master/0542-01-matrix) |
 | [0875-koko-eating-bananas](https://github.com/saurabhkr5/DSA/tree/master/0875-koko-eating-bananas) |
@@ -153,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/saurabhkr5/DSA/tree/master/0169-majority-element) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/saurabhkr5/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
