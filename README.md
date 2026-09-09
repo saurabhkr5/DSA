@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/saurabhkr5/DSA/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/saurabhkr5/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/saurabhkr5/DSA/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/saurabhkr5/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0875-koko-eating-bananas](https://github.com/saurabhkr5/DSA/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/saurabhkr5/DSA/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Binary Search
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/saurabhkr5/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/saurabhkr5/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saurabhkr5/DSA/tree/master/0217-contains-duplicate) |
+| [0560-subarray-sum-equals-k](https://github.com/saurabhkr5/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/saurabhkr5/DSA/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/saurabhkr5/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Union-Find
 |  |
 | ------- |
