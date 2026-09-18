@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/saurabhkr5/DSA/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhkr5/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/saurabhkr5/DSA/tree/master/0067-add-binary) |
+| [0796-rotate-string](https://github.com/saurabhkr5/DSA/tree/master/0796-rotate-string) |
 ## Trie
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/saurabhkr5/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/saurabhkr5/DSA/tree/master/0796-rotate-string) |
 ## Stack
 |  |
 | ------- |
